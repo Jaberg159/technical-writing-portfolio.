@@ -1,0 +1,41 @@
+---
+Document ID: SOP-OPS-204  
+Classification: Internal Operations / Compliance Manual  
+Framework: Federal Head Start Performance Standards Compliance  
+Author: Jeffrey  
+Target Audience: Classroom Educators, Floaters, and Facility Underwriters  
+Objective: Standardize morning facility safety sweeps to eliminate liability and ensure local licensing compliance.  
+---
+
+# Standard Operating Procedure (SOP): Classroom Safety Sweeps
+
+## Purpose
+This document establishes the mandatory protocol for conducting daily morning health and environmental safety sweeps. Consistent execution of this procedure ensures full alignment with state licensing standards and guarantees a hazard-free environment before students enter the facility.
+
+## Scope
+This procedure applies to all lead educators, childcare aids, and floaters assigned to active classroom spaces.
+
+---
+
+## 1. Pre-Sweep Readiness Check
+Perform these foundational tasks before conducting the physical environmental sweep:
+* **Verify** the classroom emergency binder is present on the primary wall mount.
+* **Confirm** the mobile first-aid toolkit is fully stocked with unexpired supplies.
+* **Ensure** your employee identification badge is visible.
+
+## 2. Classroom Environmental Sweep Matrix
+Execute the daily inspection following the visual matrix below. Every item must achieve a "Pass" status before children are permitted to enter the classroom space.
+
+| Inspection Area | Specific Hazard Target | Required Compliance Action |
+| :--- | :--- | :--- |
+| **Electrical Outlets** | Exposed wiring, missing safety plugs | **Insert** plastic safety caps into all unused electrical outlets. |
+| **Walkways & Floors** | Tripping hazards, moisture, loose rugs | **Clear** all debris from main pathways. **Mop** and dry wet spots immediately. |
+| **Sanitization Station** | Unlocked cleaning chemicals, low soap | **Lock** all chemical cleaning agents inside the designated overhead cabinet. |
+| **Toy Repositories** | Cracked plastics, sharp edges, small parts | **Remove** damaged items from the floor and place them in the maintenance bin. |
+
+## 3. Incident Reporting Protocol
+If any area fails the inspection matrix and cannot be immediately corrected by the on-site aid:
+1. **Mark** the specific item as "FAIL" on the daily paper logging sheet.
+2. **Isolate** the hazardous area using physical furniture boundaries if necessary.
+3. **Notify** the center director via the internal communications portal within 15 minutes.
+4. **Log** a formal maintenance request tracking number for the facilities repair crew.
